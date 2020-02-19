@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include <string>
+#include<cmath>
 
 #include "LinkedList.h"
 #include "LinkedListExercises.h"
