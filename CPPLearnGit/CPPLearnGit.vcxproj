@@ -139,11 +139,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="week1_tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinkedListExercises.h" />
     <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CPPLearnGit.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
